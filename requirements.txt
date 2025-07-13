@@ -1,0 +1,6 @@
+pdfplumber
+langchain
+sentence-transformers
+faiss-cpu
+openai
+streamlit
